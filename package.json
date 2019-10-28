@@ -1,7 +1,7 @@
 {
-  "name": "t-range",
+  "name": "tsconfig-switch",
   "version": "0.0.1",
-  "description": "Typescript Range",
+  "description": "tsconfig switch",
   "main": "index",
   "dependencies": {},
   "devDependencies": {},
@@ -9,11 +9,7 @@
   "files": [
     ".gitignore",
     "LICENSE",
-    "Readme.md",
-    "tsconfig.json",
-    "install.js",
-    "tsconfig-distribution.json",
-    "src/"
+    "Readme.md"
   ],
   "author": "",
   "license": "ISC"
