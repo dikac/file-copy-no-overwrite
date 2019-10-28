@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 'use strict';
-const root = require('app-root-path').path;
+const root = require('app-root-path');
 const Fs = require('fs');
 
+console.log(process);
 console.log(root);
+
 console.log(process.argv);
 
 // let [, , target, dest] = process.argv;
