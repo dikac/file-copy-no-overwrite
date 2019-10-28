@@ -3,6 +3,8 @@
 const root = require('app-root-path').path;
 const Fs = require('fs');
 
+console.log(root);
+
 let [, , target, dest] = process.argv;
 
 if(!target) {
