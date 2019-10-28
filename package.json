@@ -1,0 +1,20 @@
+{
+  "name": "t-range",
+  "version": "0.0.1",
+  "description": "Typescript Range",
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "files": [
+    ".gitignore",
+    "LICENSE",
+    "Readme.md",
+    "tsconfig.json",
+    "install.js",
+    "tsconfig-distribution.json",
+    "src/"
+  ],
+  "author": "",
+  "license": "ISC"
+}
