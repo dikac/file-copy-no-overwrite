@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "copy file without overwrite",
   "main": "index.js",
-  "dependencies": {
-    "app-root-path": "^2.2.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {},
   "files": [
