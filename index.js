@@ -2,7 +2,6 @@
 'use strict';
 const root = require('app-root-path').path;
 const Fs = require('fs');
-console.log(process.argv);
 
 let [, , target, dest] = process.argv;
 
