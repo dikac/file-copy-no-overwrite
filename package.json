@@ -2,7 +2,7 @@
   "name": "tsconfig-switch",
   "version": "0.0.1",
   "description": "tsconfig switch",
-  "main": "index",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {},
@@ -11,6 +11,9 @@
     "LICENSE",
     "Readme.md"
   ],
+  "bin": {
+    "tsconfig-switch": "index.js"
+  },
   "author": "",
   "license": "ISC"
 }
