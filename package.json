@@ -1,7 +1,7 @@
 {
-  "name": "tsconfig-switch",
+  "name": "file-copy-no-overwrite",
   "version": "0.0.1",
-  "description": "tsconfig switch",
+  "description": "copy file without overwrite",
   "main": "index.js",
   "dependencies": {
     "app-root-path": "^2.2.1",
@@ -16,7 +16,7 @@
     "Readme.md"
   ],
   "bin": {
-    "tsconfig-switch": "index.js"
+    "file-copy-no-overwrite": "index.js"
   },
   "author": "",
   "license": "ISC"
